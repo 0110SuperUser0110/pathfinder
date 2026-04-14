@@ -12,6 +12,7 @@ RECOMMENDED_FORMATS = {
     "fif",
     "hdf5",
     "json",
+    "jsonl",
     "md",
     "npy",
     "npz",
